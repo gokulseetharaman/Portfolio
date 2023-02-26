@@ -247,13 +247,11 @@ overflow-x: hidden;
 color: #131313;
 background-color: #fff;
   }
-#contact1 a{
+#contact a{
 color: #fff;
 text-decoration: none;
 }
 #contact{
-  background-color: #131313;
-  margin: auto;
-  width: 80%;
-  padding: 10px;
+  color: #fff;
+  text-decoration: none;
 }
