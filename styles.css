@@ -255,3 +255,35 @@ text-decoration: none;
   color: #fff;
   text-decoration: none;
 }
+
+.button-23 {
+  background-color: darkgray;
+  border: 1px solid #222222;
+  border-radius: 8px;
+  box-sizing: border-box;
+  cursor: pointer;
+  font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,"Helvetica Neue",sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20px;
+  outline: none;
+  padding: 13px 23px;
+  text-align: center;
+  touch-action: manipulation;
+  transition: box-shadow .2s,-ms-transform .1s,-webkit-transform .1s,transform .1s;
+  user-select: none;
+  width: max-content;
+}
+
+.button-23 a {
+color: #111;
+font-weight: bold;
+text-decoration: none;
+}
+.button-23:hover{
+  color: #131313;
+  background-color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+    }
+
