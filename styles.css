@@ -312,7 +312,15 @@ text-decoration: none;
   line-height: 5px;
 height: max-content;
 }
-
+#Intern{
+  color: #fff;
+  background-color: #131313;
+  padding-left: 50px;
+  padding-right: 50px;
+  text-align: justify;
+  font-size: medium;
+  overflow-x: hidden;
+}
 .timeline {
   border-right: 4px solid #004ffc;
   background: rgba(255,255,255,0.03);
