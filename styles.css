@@ -7,6 +7,23 @@
 	scroll-behavior: smooth;  
    overflow-x: clip;
 }
+a:link {
+  color: #fff;
+  text-decoration: none;
+}
+a:visited {
+  color: #fff; 
+  text-decoration: none;
+}
+a:hover {
+  color: blue;
+  text-decoration: none;
+} 
+a:active {
+  color: #fff;  
+  text-decoration: none;
+}
+
   nav{
     display: flex;
     height: 80px;
@@ -285,5 +302,69 @@ text-decoration: none;
   background-color: #fff;
   font-weight: bold;
   text-decoration: none;
-    }
+}
+#Edu{
+  color: #fff;
+  background-color: #131313;
+  padding-left: 50px;
+  padding-right: 50px;
+  text-align: justify;
+  line-height: 5px;
+height: max-content;
+}
 
+.timeline {
+  border-right: 4px solid #004ffc;
+  background: rgba(255,255,255,0.03);
+  color: rgba(255,255,255,0.8);
+  margin: 25px auto;
+  letter-spacing: 0.5px;
+  position: relative;
+  line-height: 1.4em;
+  font-size: 1.03em;
+  padding: 25px;
+  list-style: none;
+  text-align: left;
+  font-weight: 100;
+  max-width: 90%;
+}
+.timeline .event {
+  border-bottom: 1px dashed rgba(255,255,255,0.1);
+  padding-bottom: 25px;
+  margin-bottom: 25px;
+  position: relative;
+}
+.timeline .event:last-of-type {
+  padding-bottom: 0;
+  margin-bottom: 0;
+  border: none;
+}
+
+
+.timeline1 {
+  border-left: 4px solid #04aa6e;
+  background: rgba(255,255,255,0.03);
+  color: rgba(255,255,255,0.8);
+  margin: 25px auto;
+  letter-spacing: 0.5px;
+  position: relative;
+  line-height: 1.4em;
+  font-size: 1.03em;
+  padding: 25px;
+  list-style: none;
+  text-align: left;
+  font-weight: 100;
+  max-width: 90%;
+}
+.timeline1 .event1 {
+  border-bottom: 1px dashed rgba(255,255,255,0.1);
+  
+  padding-bottom: 25px;
+  margin-bottom: 25px;
+  position: relative;
+}
+.timeline1 .event1:last-of-type {
+  padding-bottom: 0;
+  margin-bottom: 0;
+  border: none;
+}
