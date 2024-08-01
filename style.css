@@ -245,7 +245,7 @@ body {
   background-color: #131313;
   padding-left: 50px;
   padding-right: 50px;
-  text-align: justify;
+  text-align: left;
   font-size: medium;
   overflow-x: hidden;
 }
