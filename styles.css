@@ -19,7 +19,7 @@ body {
     height: 100%;
     background: rgba(0, 0, 0, 0.6);
     display: flex;
-    justify-content: center;
+    justify-content: right;
     align-items: center;
     z-index: 2000;
 }
@@ -698,6 +698,9 @@ footer {
 .footer-resume {
     margin: 1rem 0;
 }
+.logo a{
+    text-decoration: none;
+}
 
 .resume-button {
     display: inline-block;
@@ -793,6 +796,19 @@ footer {
 }
 
 @media (max-width: 768px) {
+
+    .dialog {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 2000;
+}
     .dialog-content {
         padding: 1.5rem;
         width: 95%;
