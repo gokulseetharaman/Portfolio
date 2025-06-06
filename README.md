@@ -23,18 +23,18 @@ This HTML page serves as a **recruiter landing notice** — designed to:
 1. **PyTorch-Trained Image Prediction System**
    - Goal: Train and deploy a custom image classifier in real time
    - Tech: PyTorch, OpenCV  
-   - 🔗 [Project Repo](https://github.com/gokulseetharaman/Image-prediction)
+   - 🔗 [Project Repo](https://github.com/gokulseetharaman/cnn-waste-classification-opencv-pytorch)
 
 2. **AI-Driven Robotic System with LLM + ROS2 (MSc Dissertation)**
    - Goal: Voice-controlled robotic execution using fine-tuned LLM with ROS2  
    - Tech: Hugging Face, PyTorch, ROS2, SpeechRecognition
 
-3. **Virtual Drawing Board with Hand Tracking (In Progress)**
+3. **Virtual Drawing Board with Hand Tracking**
    - Goal: Gesture-based mid-air drawing interface  
    - Tech: OpenCV, MediaPipe  
-   - 🔗 [Project Repo](https://github.com/gokulseetharaman/Virtual-drawing)
+   - 🔗 [Project Repo](https://github.com/gokulseetharaman/Virtual-Drawing-board-Opencv-Pytorch)
 
-4. **Small Language Model for Edge Deployment (In Progress)**
+5. **Small Language Model for Edge Deployment (In Progress)**
    - Goal: Build a lightweight NLP model and deploy it using Docker  
    - Tech: PyTorch, Hugging Face, Transformers, Docker  
    - 🔗 [Project Repo](https://github.com/gokulseetharaman/SLM-devolopment)
@@ -43,7 +43,7 @@ This HTML page serves as a **recruiter landing notice** — designed to:
 
 ## 🧰 Skills Highlighted
 
-- **AI/ML**: PyTorch, Hugging Face Transformers, SHAP  
+- **AI/ML**: PyTorch, Hugging Face Transformers
 - **Computer Vision**: OpenCV, MediaPipe  
 - **Robotics**: ROS2, URDF, Gazebo, Kinova & UR SDKs  
 - **Automation**: Siemens TIA Portal, B&R Automation Studio, Ladder Logic  
